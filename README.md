@@ -3,6 +3,7 @@
 Three reinforcement-learning components built on NVIDIA Isaac Sim 5.1 / Isaac Lab 2.3.2, trained on a single RTX 4090 (shared headless server) over ~2 days: a **throughput-scaling study**, a **quadruped locomotion** policy, and an **authored-from-scratch manipulation task** with a full reward/stability debugging analysis.
 
 **Author:** [Hassan](https://github.com/IAmHassanMehmood) · Built with Isaac Lab `v2.3.2`, `rsl_rl` PPO, Python 3.11.
+**Trained model:** [Hassan](https://huggingface.co/hhmm1122/Franka-cube-isaaclab)
 
 ---
 
